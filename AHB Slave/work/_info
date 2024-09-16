@@ -1,0 +1,105 @@
+m255
+K3
+13
+cModel Technology
+Z0 dF:\GP\Internship\DSP
+vAHBSlave
+Z1 !s100 AN41^zh35h>AS9fSU1Q4L3
+Z2 IPW<0b3<oB:=X;MWfIe^9:1
+Z3 V7b<kd]4ozgAe>;W7We01z0
+Z4 dF:\GP\Internship\AHB Slave
+Z5 w1726523894
+Z6 8F:/GP/Internship/AHB Slave/AHBSlave.v
+Z7 FF:/GP/Internship/AHB Slave/AHBSlave.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|F:/GP/Internship/AHB Slave/AHBSlave.v|
+Z10 o-work work -O0
+Z11 n@a@h@b@slave
+Z12 !s108 1726524545.001000
+Z13 !s107 F:/GP/Internship/AHB Slave/AHBSlave.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vAHBSlave_tb
+Z14 !s100 gWH99086>GQI^[`jiEn^Q2
+Z15 I^YIDEAk`b8l`21?zGAM1h3
+Z16 Vg3c:_CQ2`?1FMM]z1HFHW3
+R4
+Z17 w1726524540
+Z18 8F:/GP/Internship/AHB Slave/AHBSlave_tb.v
+Z19 FF:/GP/Internship/AHB Slave/AHBSlave_tb.v
+L0 2
+R8
+r1
+31
+Z20 !s90 -reportprogress|300|-work|work|F:/GP/Internship/AHB Slave/AHBSlave_tb.v|
+R10
+Z21 n@a@h@b@slave_tb
+Z22 !s108 1726524546.134000
+Z23 !s107 F:/GP/Internship/AHB Slave/AHBSlave_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vRegFile
+!i10b 1
+Z24 !s100 2c>XEh;5Dolh77jBBN5X90
+Z25 I4>eL2F6@G398J[^:LA?E@0
+Z26 Vl=RlAf7o42^WBfll_lJ4e2
+R4
+Z27 w1726523457
+Z28 8F:/GP/Internship/AHB Slave/RegFile.v
+Z29 FF:/GP/Internship/AHB Slave/RegFile.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1726524548.404000
+!s107 F:/GP/Internship/AHB Slave/RegFile.v|
+Z30 !s90 -reportprogress|300|-work|work|F:/GP/Internship/AHB Slave/RegFile.v|
+!s101 -O0
+R10
+Z31 n@reg@file
+vTop
+Z32 !s100 Ng4?CF_Og1Q7WFVU3P5NS2
+Z33 I4@BLQcnhiC@bcoGLGkl>Z0
+Z34 Vd^XUUci^8F8E4gbAR=>350
+R4
+Z35 w1726523498
+Z36 8F:/GP/Internship/AHB Slave/Top.v
+Z37 FF:/GP/Internship/AHB Slave/Top.v
+L0 1
+R8
+r1
+31
+Z38 !s90 -reportprogress|300|-work|work|F:/GP/Internship/AHB Slave/Top.v|
+R10
+n@top
+Z39 !s108 1726524547.654000
+Z40 !s107 F:/GP/Internship/AHB Slave/Top.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vTop_tb
+Z41 !s100 Z53G<gfG8mL[2Zb9?;Ik63
+Z42 IjH@X`zdP6K715O_2VEG_W1
+Z43 Vm3UM2X:`z_>jE]g_[Sg241
+R4
+Z44 w1726523336
+Z45 8F:/GP/Internship/AHB Slave/Top_tb.v
+Z46 FF:/GP/Internship/AHB Slave/Top_tb.v
+L0 2
+R8
+r1
+31
+Z47 !s90 -reportprogress|300|-work|work|F:/GP/Internship/AHB Slave/Top_tb.v|
+R10
+Z48 n@top_tb
+!i10b 1
+!s85 0
+Z49 !s108 1726524548.286000
+Z50 !s107 F:/GP/Internship/AHB Slave/Top_tb.v|
+!s101 -O0
